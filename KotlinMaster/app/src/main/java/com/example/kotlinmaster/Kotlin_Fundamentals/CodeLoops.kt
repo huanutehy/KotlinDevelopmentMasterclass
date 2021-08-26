@@ -19,6 +19,7 @@ fun main() {
     do {
         println(" Giá trị của z : $z")
         //tăng giá trị của z để check
+        //tăng lên
         z++
     } while (z <= 10)
 
